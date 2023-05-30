@@ -996,7 +996,430 @@ const Home = () => {
             question: 'cut',
             answer: 'couper'
         },
-
+        {
+            question: 'decide',
+            answer: 'décider'
+        },
+        {
+            question: 'do',
+            answer: 'faire'
+        },
+        {
+            question: 'develop',
+            answer: 'développer'
+        },
+        {
+            question: 'differ',
+            answer: 'différer'
+        },
+        {
+            question: 'draw',
+            answer: 'dessiner'
+        },
+        {
+            question: 'drive',
+            answer: 'conduire'
+        },
+        {
+            question: 'ease',
+            answer: 'faciliter'
+        },
+        {
+            question: 'eat',
+            answer: 'manger'
+        },
+        {
+            question: 'fall',
+            answer: 'tomber'
+        },
+        {
+            question: 'feel',
+            answer: 'ressentir'
+        },
+        {
+            question: 'fill',
+            answer: 'remplir'
+        },
+        {
+            question: 'find',
+            answer: 'trouver'
+        },
+        {
+            question: 'fly',
+            answer: 'voler'
+        },
+        {
+            question: 'follow',
+            answer: 'suivre'
+        },
+        {
+            question: 'give',
+            answer: 'donner'
+        },
+        {
+            question: 'get',
+            answer: 'obtenir'
+        },
+        {
+            question: 'go',
+            answer: 'aller'
+        },
+        {
+            question: 'govern',
+            answer: 'gouverner'
+        },
+        {
+            question: 'grow',
+            answer: 'grandir'
+        },
+        {
+            question: 'happen',
+            answer: 'se passer'
+        },
+        {
+            question: 'hear',
+            answer: 'entendre'
+        },
+        {
+            question: 'help',
+            answer: 'aider'
+        },
+        {
+            question: 'hold',
+            answer: 'tenir'
+        },
+        {
+            question: 'keep',
+            answer: 'garder'
+        },
+        {
+            question: 'know',
+            answer: 'savoir'
+        },
+        {
+            question: 'laugh',
+            answer: 'rire'
+        },
+        {
+            question: 'lay',
+            answer: 'coucher'
+        },
+        {
+            question: 'lead',
+            answer: 'mener'
+        },
+        {
+            question: 'learn',
+            answer: 'apprendre'
+        },
+        {
+            question: 'leave',
+            answer: 'quitter'
+        },
+        {
+            question: 'like',
+            answer: 'aimer'
+        },
+        {
+            question: 'listen',
+            answer: 'écouter'
+        },
+        {
+            question: 'live',
+            answer: 'vivre'
+        },
+        {
+            question: 'look',
+            answer: 'regarder'
+        },
+        {
+            question: 'love',
+            answer: 'aimer'
+        },
+        {
+            question: 'make',
+            answer: 'faire'
+        },
+        {
+            question: 'mark',
+            answer: 'marquer'
+        },
+        {
+            question: 'mean',
+            answer: 'signifier'
+        },
+        {
+            question: 'miss',
+            answer: 'manquer'
+        },
+        {
+            question: 'move',
+            answer: 'bouger'
+        },
+        {
+            question: 'need',
+            answer: 'besoin'
+        },
+        {
+            question: 'note',
+            answer: 'noter'
+        },
+        {
+            question: 'open',
+            answer: 'ouvrir'
+        },
+        {
+            question: 'own',
+            answer: 'posséder'
+        },
+        {
+            question: 'pass',
+            answer: 'passer'
+        },
+        {
+            question: 'play',
+            answer: 'jouer'
+        },
+        {
+            question: 'press',
+            answer: 'appuyer'
+        },
+        {
+            question: 'produce',
+            answer: 'produire'
+        },
+        {
+            question: 'pull',
+            answer: 'tirer'
+        },
+        {
+            question: 'put',
+            answer: 'mettre'
+        },
+        {
+            question: 'rain',
+            answer: 'pleuvoir'
+        },
+        {
+            question: 'run',
+            answer: 'courir'
+        },
+        {
+            question: 'reach',
+            answer: 'atteindre'
+        },
+        {
+            question: 'read',
+            answer: 'lire'
+        },
+        {
+            question: 'record',
+            answer: 'enregistrer'
+        },
+        {
+            question: 'remember',
+            answer: 'se souvenir'
+        },
+        {
+            question: 'rest',
+            answer: 'se reposer'
+        },
+        {
+            question: 'say',
+            answer: 'dire'
+        },
+        {
+            question: 'see',
+            answer: 'voir'
+        },
+        {
+            question: 'seem',
+            answer: 'sembler'
+        },
+        {
+            question: 'serve',
+            answer: 'servir'
+        },
+        {
+            question: 'set',
+            answer: 'mettre en place'
+        },
+        {
+            question: 'show',
+            answer: 'montrer'
+        },
+        {
+            question: 'sing',
+            answer: 'chanter'
+        },
+        {
+            question: 'sit',
+            answer: 's’asseoir'
+        },
+        {
+            question: 'sleep',
+            answer: 'dormir'
+        },
+        {
+            question: 'spell',
+            answer: 'épeler'
+        },
+        {
+            question: 'stand',
+            answer: 'se tenir debout'
+        },
+        {
+            question: 'stay',
+            answer: 'rester'
+        },
+        {
+            question: 'stop',
+            answer: 'arrêter'
+        },
+        {
+            question: 'start',
+            answer: 'commencer'
+        },
+        {
+            question: 'study',
+            answer: 'étudier'
+        },
+        {
+            question: 'take',
+            answer: 'prendre'
+        },
+        {
+            question: 'talk',
+            answer: 'parler'
+        },
+        {
+            question: 'teach',
+            answer: 'enseigner'
+        },
+        {
+            question: 'tell',
+            answer: 'dire'
+        },
+        {
+            question: 'think',
+            answer: 'penser'
+        },
+        {
+            question: 'travel',
+            answer: 'voyager'
+        },
+        {
+            question: 'try',
+            answer: 'essayer'
+        },
+        {
+            question: 'turn',
+            answer: 'tourner'
+        },
+        {
+            question: 'use',
+            answer: 'utiliser'
+        },
+        {
+            question: 'wait',
+            answer: 'attendre'
+        },
+        {
+            question: 'walk',
+            answer: 'marcher'
+        },
+        {
+            question: 'want',
+            answer: 'vouloir'
+        },
+        {
+            question: 'wonder',
+            answer: 'se demander'
+        },
+        {
+            question: 'work',
+            answer: 'travailler'
+        },
+        {
+            question: 'write',
+            answer: 'écrire'
+        },
+        {
+            question: 'any',
+            answer: 'tout'
+        },
+        {
+            question: 'certain',
+            answer: 'certain'
+        },
+        {
+            question: 'each',
+            answer: 'chaque'
+        },
+        {
+            question: 'every',
+            answer: 'tous'
+        },
+        {
+            question: 'one',
+            answer: 'un'
+        },
+        {
+            question: 'some',
+            answer: 'certain'
+        },
+        {
+            question: 'how',
+            answer: 'comment'
+        },
+        {
+            question: 'what',
+            answer: 'quoi'
+        },
+        {
+            question: 'when',
+            answer: 'quand'
+        },
+        {
+            question: 'where',
+            answer: 'quel'
+        },
+        {
+            question: 'while',
+            answer: 'tandis que'
+        },
+        {
+            question: 'who',
+            answer: 'qui'
+        },
+        {
+            question: 'why',
+            answer: 'pourquoi'
+        },
+        {
+            question: 'above',
+            answer: 'au-dessus'
+        },
+        {
+            question: 'after',
+            answer: 'après'
+        },
+        {
+            question: 'again',
+            answer: 'encore'
+        },
+        {
+            question: 'against',
+            answer: 'contre'
+        },
+        {
+            question: 'ago',
+            answer: 'il y a'
+        },
+        {
+            question: 'all',
+            answer: 'tout'
+        },
     ]
     const [reponse, setReponse] = useState('')
     const [next, setNext] = useState(0)
@@ -1010,7 +1433,7 @@ const Home = () => {
                 setError('')
             }, 2000);
         } else {
-            if (reponse.toLowerCase() === quiz.answer.toLowerCase()) {
+            if (reponse.trim().toLowerCase() === quiz.answer.trim().toLowerCase()) {
                 setNext((prevNext) => prevNext + 1)
                 setSuccess("Brevo🎉🎉✨")
                 setTimeout(() => {
@@ -1020,9 +1443,8 @@ const Home = () => {
                     localStorage.setItem('lastQuiz', next + 1)
                 }, 2000);
 
-
-
             } else {
+                alert(reponse.toLowerCase())
                 setError("Mauvaise reponse😞😞😞")
                 setTimeout(() => {
                     setError('')
@@ -1031,10 +1453,10 @@ const Home = () => {
         }
     }
     useEffect(() => {
-        if (localStorage.getItem('lastQuiz')!==null) {
+        if (localStorage.getItem('lastQuiz') !== null) {
             setQuiz(QUIZS[localStorage.getItem('lastQuiz')])
         }
-    },[])
+    }, [])
     return (
         <div className='content_body d-flex justify-content-center align-items-center flex-column'>
             <div className='text-white my-5'> <h4>QUIZ DABO</h4></div>
